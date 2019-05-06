@@ -33,7 +33,7 @@ Below is a table of repositories (source code) or file names with a brief descri
 Name                        | Description
 :-------------------------- | :----------------------------------------------------------------
 Backend                     | Back-end database and REST API for the Smart Lock application. Also contains SMS and Stranger Reporting Network. View GitHub repository [here](https://github.com/software-engineering-s19-group10/smart-lock-backend).
-Frontend                    | The frontend of the project. See "How To Run" for details on accessing it. View GitHub repository [here](https://github.com/software-engineering-s19-group10/frontend-demo).
+Frontend                    | Frontend web application. See [How To Run](https://github.com/software-engineering-s19-group10/ELECTRONIC-ARCHIVE#how-to-run) for details on accessing it. View GitHub repository [here](https://github.com/software-engineering-s19-group10/frontend-demo).
 Local Camera Processing     | Facial recognition processing and camera communication to be run on the Raspberry Pi. View GitHub repository [here](https://github.com/software-engineering-s19-group10/LocalCameraProcessing).
 Streaming                   | Program for streaming video feed from Raspberry Pi to be displayed on web app. View GitHub repository [here](https://github.com/software-engineering-s19-group10/streaming).
 Powerpoint Slides           | Powerpoint slides used during Demos #1 & #2. (Flattened/removed animations for reduced file size)
