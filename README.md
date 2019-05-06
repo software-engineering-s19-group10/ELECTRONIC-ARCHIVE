@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/software-engineering-s19-group10/ELECTRONIC-ARCHIVE/blob/master/SmartLock_Logo_v2.jpg" height="300">
+</p>
+
 # ELECTRONIC-ARCHIVE
 An electronic archive containing everything that is necessary to evaluate and run our software.
 
@@ -47,3 +51,22 @@ Report 3                    | Report #3 as submitted on: May 5th, 2019
 3. Web app should be intuative and work from there.
    
 - NOTE: Some features will be non-functional unless our hardware (Raspberry Pi) is on and there is data to display.
+
+# Group #10 Members
+
+- [Janda, Jasjit](https://github.com/jandaj)
+- [Kaler, Amandip](https://github.com/ak1415)
+- [Khattar, Mohit](https://github.com/koml12)
+- [Lin, Eric](https://github.com/Yukirilin)
+- [Lu, Jeff](https://github.com/jefflu188)
+- [Moseley, Ted](https://github.com/tmose1106)
+- [Nadeem, Mohammad](https://github.com/mnadev)
+- [Nguyen, Daniel](https://github.com/DanNguyen-CE)
+- [Sengupta, Andrew](https://github.com/andrewsengupta)
+- [Truong, Michael](https://github.com/MichaelTruongZ)
+
+```
+Software Engineering [ECE 452]  
+Ivan Marsic  
+Rutgers University 2019  
+```
